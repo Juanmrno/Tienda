@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    float: left;
+    margin-left: 10px;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+.title{
+    text-align: center;
+    
+}
+
+.ti{
+    text-align: center;
+}
+
+
+.ubic{
+    width: 70px;
+    height: 70px;
+}
+
+.ub{
+    
+}
+
+.cel{
+    width: 70px;
+    height: 70px;
+}
+
+.tel{
+    width: 70px;
+    height: 70px;
+}
+
+.ub{
+
+}
