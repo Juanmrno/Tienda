@@ -1,0 +1,40 @@
+#body {
+	background-color: #ADD8E6; 
+	font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+#upper-right {
+	position: fixed;
+	top: 0;
+	right: 0;
+	padding: 20px;
+	text-align: center;
+}
+
+#upper-right .row{
+	display: flex;
+	align-items:end;
+	margin-bottom: 1em;
+}
+
+#upper-right h2 {
+	font-size: 1em;
+	margin: 0.5em;
+}
+
+#info .column {
+	display: flex;
+    left: 0;
+    top: 80px;
+	flex-direction: column;
+	align-items: start;
+}
+
+#info .column h1 {
+	margin-bottom: 0.5em;
+}
+
+#info .column p {
+	margin: 0;
+}
