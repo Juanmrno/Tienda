@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.cont{
+    justify-content: center;
+    text-align: center;
+}
+
+
+.map{
+    height: 30%;
+    width: 30%;
+}
+
+
+
+body{
+    font-family: arial;
+    background-image: url("../img/mascotas.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+h1{
+    color: rgb(44, 34, 190);
+}
+
+h3{
+    color: rgb(1, 91, 170);
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
